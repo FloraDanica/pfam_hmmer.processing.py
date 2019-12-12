@@ -2,7 +2,7 @@
 -----------------------------------------------
 **requirement**  
 1. linux, python3;  
-2. pfam datase;  
+2. pfam database;  
 3. pfam ID list, like " PF18246.1 PF18358.1 PF18359.1 ... PF18404.1 ";  
 
 
